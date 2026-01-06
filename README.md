@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](Screenshot 2026-01-06 at 17-31-41 advice-generator.png)
+![Desktop]([Screenshot 2026-01-06 at 17-31-41 advice-generator.png](https://github.com/JordanAMWedderburn/FrontendMentor-Advice-Generator/blob/master/advice-generator/Screenshots/Screenshot%202026-01-06%20at%2017-31-41%20advice-generator.png?raw=true))
 
 ### Links
 
