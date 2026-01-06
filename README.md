@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](/Screenshots/Screenshot 2026-01-06 at 17-31-41 advice-generator.png)
+![Desktop](Screenshot 2026-01-06 at 17-31-41 advice-generator.png)
 
 ### Links
 
