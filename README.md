@@ -30,6 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop View](https://github.com/JordanAMWedderburn/FrontendMentor-Advice-Generator/blob/master/advice-generator/Screenshots/Screenshot%202026-01-06%20at%2017-31-41%20advice-generator.png?raw=true)
+![Mobile View](https://github.com/JordanAMWedderburn/FrontendMentor-Advice-Generator/blob/master/advice-generator/Screenshots/Screenshot%202026-01-06%20at%2017-53-19%20advice-generator.png?raw=true)
 
 ### Links
 
